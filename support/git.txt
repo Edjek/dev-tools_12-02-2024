@@ -30,5 +30,15 @@ git status
 git add <nom_du_fichier>
 git add .
 
-# Enrigistrer les modifications qui sont présentes dans la staging area en créant un nouveau commit
+# Enregistrer les modifications qui sont présentes dans la staging area en créant un nouveau commit.
 git commit -m "un message"
+
+# Afficher l'historique des commit
+git log
+
+# ---------------
+# REMOTE
+# ---------------
+
+# Cloner un dépôt Git distant en créant une copie locale du projet.
+git clone <url>
