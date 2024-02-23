@@ -1,4 +1,11 @@
+/* Cascading Style Sheet */
+
 h1 {
-    color: red;
+    color: #555;
     font-style: italic;
+}
+
+.title {
+    color: #555;
+    text-transform: uppercase;
 }

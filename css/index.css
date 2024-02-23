@@ -2,12 +2,6 @@ p {
     color: orange;
 }
 
-/* Cascading style sheet */
-
 p {
-    color: green;
-}
-
-.title {
     color: green;
 }
